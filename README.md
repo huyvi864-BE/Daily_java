@@ -5,3 +5,10 @@ Mục tiêu
 - Nắm vững Core Java, OOP và các Cấu trúc dữ liệu & Giải thuật.
 - Giải quyết các bài toán trên LeetCode / HackerRank.
 - Lưu trữ các bài tập thực hành
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/huyvi864-BE/Daily_java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+<!---LeetCode Topics End-->
