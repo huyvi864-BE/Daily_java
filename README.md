@@ -20,4 +20,12 @@ Mục tiêu
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huyvi864-BE/Daily_java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/huyvi864-BE/Daily_java/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/huyvi864-BE/Daily_java/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
