@@ -8,7 +8,37 @@ Mục tiêu
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huyvi864-BE/Daily_java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huyvi864-BE/Daily_java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huyvi864-BE/Daily_java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huyvi864-BE/Daily_java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/huyvi864-BE/Daily_java/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/huyvi864-BE/Daily_java/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1768-merge-strings-alternately](https://github.com/huyvi864-BE/Daily_java/tree/master/1768-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/huyvi864-BE/Daily_java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/huyvi864-BE/Daily_java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/huyvi864-BE/Daily_java/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
