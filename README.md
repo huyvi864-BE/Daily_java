@@ -10,6 +10,7 @@ Mục tiêu
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/huyvi864-BE/Daily_java/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huyvi864-BE/Daily_java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huyvi864-BE/Daily_java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -41,4 +42,8 @@ Mục tiêu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/huyvi864-BE/Daily_java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/huyvi864-BE/Daily_java/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
