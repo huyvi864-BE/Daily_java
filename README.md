@@ -11,6 +11,7 @@ Mục tiêu
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/huyvi864-BE/Daily_java/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/huyvi864-BE/Daily_java/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/huyvi864-BE/Daily_java/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/huyvi864-BE/Daily_java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/huyvi864-BE/Daily_java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -50,9 +51,14 @@ Mục tiêu
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/huyvi864-BE/Daily_java/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/huyvi864-BE/Daily_java/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/huyvi864-BE/Daily_java/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/huyvi864-BE/Daily_java/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
