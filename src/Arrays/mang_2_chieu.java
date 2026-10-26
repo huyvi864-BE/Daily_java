@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Scanner;
 
 public class mang_2_chieu {

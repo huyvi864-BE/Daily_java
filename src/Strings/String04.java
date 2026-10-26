@@ -1,3 +1,5 @@
+package Strings;
+
 import java.util.Scanner;
 public class String04{
     public static void main(String args[]){

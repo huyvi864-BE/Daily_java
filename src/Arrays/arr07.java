@@ -1,6 +1,8 @@
+package Arrays;
+
 import java.util.Scanner;
 
-public class arr02 {
+public class arr07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -9,13 +11,13 @@ public class arr02 {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-
-        int answer = 0;
-        for (int i = 0; i < n; i++) {
-            if(arr[i] % 2 != 0 && arr[i] > 0) {
-                answer += arr[i];
+        int k = sc.nextInt();
+        int res = 0;
+        for (int i =0; i <n; i++){
+            if(arr[i] == k){
+                res += 1;
             }
         }
-        System.out.print(answer);
+        System.out.print(res);
     }
 }

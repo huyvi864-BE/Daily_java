@@ -1,9 +1,11 @@
+package Arrays;
+
 import java.util.Scanner;
 
-public class max_arr {
-    public static void show(String[] arr) {
+public class arr04 {
+    public static void show(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i].length() > 3) {
+            if (arr[i] % 3 == 0 && arr[i] % 5 != 0) {
                 System.out.print(arr[i] + " ");
             }
         }
@@ -12,9 +14,9 @@ public class max_arr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        String[] arr = new String[n];
+        int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
-            arr[i] = sc.next();
+            arr[i] = sc.nextInt();
         }
         show(arr);
     }
